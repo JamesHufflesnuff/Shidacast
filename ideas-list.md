@@ -1,13 +1,13 @@
 # Ideas list
 <!-- To add an idea, put ### before it, to comment on one, just type below it. -->
-### Stranger things season 2
-### Net neutrality
-### #elsagate
-### Twitch being a bitch
-### Why is everyone a rapist
-### Reading spongebob episodes as if they were fanfic
-### Fanfic time
-### Never have I ever
-### Silent book reading
-> test
-### OSRS mobile
+Stranger things season 2
+Net neutrality
+#elsagate
+Twitch being a bitch
+Why is everyone a rapist
+Reading spongebob episodes as if they were fanfic
+Fanfic time
+Never have I ever
+Silent book reading
+> this is dumb, its just silence
+OSRS mobile
