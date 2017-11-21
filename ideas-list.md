@@ -1,5 +1,5 @@
 # Ideas list
-
+<!-- To add an idea, put ### before it, to comment on one, just type below it. -->
 ### Stranger things season 2
 ### Net neutrality
 ### #elsagate
